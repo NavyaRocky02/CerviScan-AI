@@ -1,0 +1,20 @@
+{
+    "project": "CerviScan AI",
+    "dataset_type": "Synthetic",
+    "classes": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7"
+    ],
+    "test_accuracy": 1.0,
+    "training_epochs": 15,
+    "training_samples": 245,
+    "validation_samples": 52,
+    "testing_samples": 53,
+    "device": "cpu",
+    "clinical_validation": false
+}
